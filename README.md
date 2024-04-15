@@ -6,6 +6,30 @@ This project was developed as part of the Programming discipline for the Special
 
 The aim of this project is to create a BMI (Body Mass Index) calculator in JavaScript. BMI is a measure that uses a person's height and weight to determine if they are at a healthy weight.
 
+## Computational Thinking
+
+### Decomposition:
+
+- Define age, weight, and height.
+- Calculate the BMI using the formula: BMI = weight / (height \* height).
+- Check classification based on the result.
+
+### Pattern Recognition:
+
+- Every BMI result falls within a classification.
+
+### Abstraction:
+
+- Only calculate for ages between 20 and 60 years.
+
+### Algorithmic Thinking:
+
+1.  Check if the age is within the range of 20 to 60 years.
+    - If it is, calculate BMI.
+    - Otherwise, display an error message.
+2.  Calculate the BMI according to the formula (weight / height \* height).
+3.  Check BMI and return the corresponding classification.
+
 ## Features
 
 - **BMI Calculator:** The `bmi` function calculates the BMI based on the provided weight and height, and returns the BMI value along with its classification (e.g., "Underweight", "Normal Weight", "Overweight", "Obesity").
