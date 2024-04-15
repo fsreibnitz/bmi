@@ -1,0 +1,17 @@
+{
+  "name": "bmi",
+  "version": "1.0.0",
+  "description": "Body Mass Index (BMI)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "BMI"
+  ],
+  "author": "Reibnitz, Fabio",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
