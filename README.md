@@ -5,6 +5,8 @@ This project was developed as part of the Programming discipline for the Special
 ## About the Project
 
 The aim of this project is to create a BMI (Body Mass Index) calculator in JavaScript. BMI is a measure that uses a person's height and weight to determine if they are at a healthy weight.
+![2024-04-06_17h39_06](https://github.com/fsreibnitz/bmi/assets/13247837/ee82a04c-9474-46db-a962-f2b6b82d1fdf)
+
 
 ## Computational Thinking
 
@@ -48,4 +50,4 @@ Contributions are welcome! Feel free to send pull requests to improve this proje
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](LICENSE).
